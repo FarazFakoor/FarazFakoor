@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FarazFakoor
 - 👀 I’m interested in My Duty
-- 🌱 I’m currently learning My Jobs
+- 🌱 I’m currently learning My Job
 - 💞️ I’m looking to collaborate on work
 - 📫 How to reach me by sending me mail
 
