@@ -2,7 +2,7 @@
 - 👀 I’m interested in My Duty
 - 🌱 I’m currently learning My Jobs
 - 💞️ I’m looking to collaborate on work 
-- 📫 How to reach me by sending me mail                                                                                                 
+- 📫 How to reach me by sending me mail                                                                                                  
  
 <!---
 FarazFakoor/FarazFakoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
